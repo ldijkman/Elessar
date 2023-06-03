@@ -1,7 +1,10 @@
 
-Elessar //github.com/quarterpast/Elessar
+#Elessar //github.com/quarterpast/Elessar
+
 Draggable multiple range sliders
+
 onclick selection gets red for 5 seconds, if clicked again when red its deleted
+
 does not work on touch phone
 
 https://plnkr.co/edit/xrVBhUkVmncU64KZ
