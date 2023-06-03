@@ -4,13 +4,14 @@ Draggable multiple range sliders
 onclick selection gets red for 5 seconds, if clicked again when red its deleted
 does not work on touch phone
 
-
 https://plnkr.co/edit/xrVBhUkVmncU64KZ
 
 ![2023-06-03-095739_1920x1080_scrot](https://github.com/ldijkman/Elessar/assets/45427770/80bc0bfd-5008-441e-9947-2022b9a9054d)
 
 https://plnkr.co/edit/xrVBhUkVmncU64KZ
 
+---
+===
 
 Unmaintained
 ===
